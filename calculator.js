@@ -38,7 +38,7 @@ function change(){
   result.classList.toggle("darktext");
 
   let buttons = document.querySelectorAll(".button");
-  buttons.forEach(a => {                         //a is a variable here for the foreach loop
+  buttons.forEach(button => {                         //button is a variable here for the foreach loop
   button.classList.toggle("darkbuttons");
 });
   }
