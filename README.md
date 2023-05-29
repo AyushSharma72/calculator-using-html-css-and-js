@@ -2,7 +2,9 @@
 A calculator using html css and javascript it also have a dark mode and a delete button to delete a single number at a time(DE).
 
 html code -> index.html
+
 code for  css -> calculator.css
+
 javascript code -> calculator.javascript
 
 here is the output:
